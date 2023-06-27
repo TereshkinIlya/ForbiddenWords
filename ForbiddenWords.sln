@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForbiddenWords", "ForbiddenWords\ForbiddenWords.csproj", "{A9F4F46B-E563-422F-AB7F-AF42D00E6EF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchingSystems", "SearchingSystems\SearchingSystems.csproj", "{2ABD94B6-4E26-4981-949D-096E470A805B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9F4F46B-E563-422F-AB7F-AF42D00E6EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F4F46B-E563-422F-AB7F-AF42D00E6EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F4F46B-E563-422F-AB7F-AF42D00E6EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F4F46B-E563-422F-AB7F-AF42D00E6EF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ABD94B6-4E26-4981-949D-096E470A805B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ABD94B6-4E26-4981-949D-096E470A805B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ABD94B6-4E26-4981-949D-096E470A805B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ABD94B6-4E26-4981-949D-096E470A805B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D4E0E28-B785-4233-8C09-5D5653C265B6}
+	EndGlobalSection
+EndGlobal
